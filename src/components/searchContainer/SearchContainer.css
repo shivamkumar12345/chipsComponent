@@ -1,0 +1,39 @@
+body {
+    font-family: Arial, sans-serif;
+    /* display: flex; */
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    width: calc(100% - 20px);
+    margin: 0;
+  }
+  
+.select_option_list {
+    max-height: 300px;
+    overflow-y: auto;
+    padding: 10px 0;
+    margin: 0;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    z-index: 1000;
+    background-color: #fff;
+    border: 1px solid #ccc;
+    border-top: none;
+    border-radius: 0 0 5px 5px;
+    display: none;
+}
+input[type=text]{
+    margin: 0 !important;
+    border-bottom: none !important;
+}
+.select_option {
+    /* list-style: none;
+    line-height: 1.2; */
+    padding: 10px;
+    cursor: pointer;
+    /* position: relative; */
+    transition: background-color 0.3s;
+}
+.close_icons {
+    padding-left: 15px !important;
+
+}
