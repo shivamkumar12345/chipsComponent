@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/chipsComponent/static/css/main.e9d30e55.css",
+    "main.js": "/chipsComponent/static/js/main.ccde3ddd.js",
+    "static/media/avatar.svg": "/chipsComponent/static/media/avatar.a82f4ee704fdd880f4d821c85b42a7c5.svg",
+    "static/media/icon_close.svg": "/chipsComponent/static/media/icon_close.8265f088f188bceed9ff7ed9b6ce0433.svg",
+    "index.html": "/chipsComponent/index.html",
+    "main.e9d30e55.css.map": "/chipsComponent/static/css/main.e9d30e55.css.map",
+    "main.ccde3ddd.js.map": "/chipsComponent/static/js/main.ccde3ddd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e9d30e55.css",
+    "static/js/main.ccde3ddd.js"
+  ]
+}
